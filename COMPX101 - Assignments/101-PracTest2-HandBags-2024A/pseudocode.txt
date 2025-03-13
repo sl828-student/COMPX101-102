@@ -1,0 +1,24 @@
+Declare variables
+TRY
+GET user input parse as integer
+
+IF input is less than min or greater than max
+	Display error message 
+	Clear Textboxes
+ELSE 
+	FOR columns less than max number of columns
+		FOR rows less than input number of rows
+			Set the X co-ordinate (columns * (width + gap)
+			set the y co-ordinate (rows * (height + gap)
+			
+			IF columns is multiple of 3
+				Set Brush colour to Purple
+			ELSE
+				Set Brush colour to red
+			Draw the bags
+CATCH
+   Display error message
+   Clear the picturebox
+   Clear the textbox
+   Set focus to the textbox
+ENDTRY

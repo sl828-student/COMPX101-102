@@ -1,0 +1,28 @@
+Declare variables
+Set filter for the dialog control
+IF user has selected a file THEN
+   try Draw the empty seats in the cinema (using DrawCinema provided method)
+	Using Reader
+	While reader is not end of stream
+Split line by comma into array
+If array is lenth 4
+set array postion 0 to seat
+set array postion 1 to row
+set array postion 2 to patron name
+set array postion 3 to ticket type
+Display items in listbox
+
+If ticketype is adult
+Draw Adult seat
+else if tickettype is child
+draw child seat
+else
+display error + line
+
+catch error
+
+
+
+
+
+ENDIF

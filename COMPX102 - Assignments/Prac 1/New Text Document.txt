@@ -1,0 +1,23 @@
+1) Makes code easier to read for both yourself and others. Advantage is that at a glance 
+you can tell what a method does
+
+2)
+	int 0
+	double 9.0
+	double 3.333333
+	bool false
+	int 1
+	string "10 / 3 3"
+
+3)class scope can be acessed by all methods. Method scope can only be acessed by the method in which 
+the variable is declared
+
+5)
+	0.3
+	0.3
+	0.4
+	0.1
+
+6)
+147
+	

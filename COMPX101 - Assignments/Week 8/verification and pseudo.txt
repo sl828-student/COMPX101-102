@@ -1,0 +1,26 @@
+Week 8 Practical review
+
+1.What does the term ‘appending to a file’ mean?
+
+Adding to file/ creating new elements
+
+2. Why is using the Try…Catch structure in your code important?
+
+To catch exceptions/errors
+
+
+Pseudocode- Main method:
+
+Declare variables
+if file exists 
+	read file 
+	while not end of file
+		read planet name
+		read planet mass
+		read planet radius
+
+		calculate gravity
+		
+		output value to console
+else error message for file not found
+	

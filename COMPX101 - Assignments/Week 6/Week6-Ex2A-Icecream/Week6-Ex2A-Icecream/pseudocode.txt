@@ -1,0 +1,12 @@
+Declare variables
+TRY
+
+
+
+
+
+CATCH
+   Display error message
+   Clear the textbox
+   Set focus to the textbox
+ENDTRY

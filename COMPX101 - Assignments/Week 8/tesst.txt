@@ -1,0 +1,10 @@
+Venus has earth equivalent gravity of: 0.8975069252077563
+
+Mars has earth equivalent gravity of: 0.3915984336062655
+
+Jupiter has earth equivalent gravity of: 2.6227678571428577
+
+Neptune has earth equivalent gravity of: 1.1911357340720221
+
+Sun has earth equivalent gravity of: 28.009005975927952
+

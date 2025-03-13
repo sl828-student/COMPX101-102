@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseMoveGraphic", "MouseMoveGraphic\MouseMoveGraphic.csproj", "{B15445D5-4D29-4F85-AEC4-65B8F9B6802E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B15445D5-4D29-4F85-AEC4-65B8F9B6802E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B15445D5-4D29-4F85-AEC4-65B8F9B6802E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B15445D5-4D29-4F85-AEC4-65B8F9B6802E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B15445D5-4D29-4F85-AEC4-65B8F9B6802E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD995411-4BA2-4C1B-9A31-2D4D2AA12632}
+	EndGlobalSection
+EndGlobal

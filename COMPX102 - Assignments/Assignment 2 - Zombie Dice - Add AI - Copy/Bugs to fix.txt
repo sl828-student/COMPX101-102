@@ -1,0 +1,3 @@
+Bugs in Zombie Dice:
+
+- When losing without ending turn button against computer the game stops.

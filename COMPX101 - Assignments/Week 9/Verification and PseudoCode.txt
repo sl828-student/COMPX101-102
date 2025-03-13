@@ -1,0 +1,46 @@
+What are the benefits of using arrays?
+	Speed, if fixed number of elements, arrays are efficient.
+
+If you wanted to store the name and age of 100 people what variables would
+you declare to store this information? Explain your answer.
+
+	If the number of people is fixed at 100, then:
+
+	declare an string array for names of size 100,
+	declare an integer array for ages of size 100,
+
+	If the number of elements can change and should be dynamic a list would be better.
+
+
+Open File Menu Pseudocode:
+
+Declare Variables
+try
+	displayGrid
+	Using streamreader
+	WHILE not the end of stream
+	try
+	if Array length =4
+	set column to array index 1
+	set row to array index 2
+	set terrain type to array index 3
+	set terainvalue to array index 4
+
+	Display values in listbox
+	if terrain is ground
+		Draw ground
+	if terrain is mountain
+		draw mountain
+	if terrain is forest
+		draw forest
+	if terrain is town
+		draw town
+close reader
+catch exceptions
+
+
+
+
+
+
+catch

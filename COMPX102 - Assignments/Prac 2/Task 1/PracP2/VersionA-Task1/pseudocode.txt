@@ -1,0 +1,13 @@
+Declare variables
+
+Set filter for dialog control
+IF user has selected a file THEN
+   Draw grid of normal tiles (using the DisplayGrid method)
+
+
+
+
+
+
+
+ENDIF
